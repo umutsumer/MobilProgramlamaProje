@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigate_notifications"
+        android:title="Bildirimler"
+        android:icon="@drawable/ic_notice_button"/>
+    <item android:id="@+id/navigate_map"
+        android:title="Harita"
+        android:icon="@drawable/ic_social_button"/>
+    <item android:id="@+id/navigate_search"
+        android:title="Arama"
+        android:icon="@drawable/ic_search_button"/>
+
+
+
+
+</menu>

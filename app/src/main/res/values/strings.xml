@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ev Arıyorum</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="spinner_options">
+        <item>Ev/Ev Arkadaşı Aramıyor</item>
+        <item>Ev Arıyor</item>
+        <item>Ev Arkadaşı Arıyor</item>
+    </string-array>
+
+
+
+</resources>
